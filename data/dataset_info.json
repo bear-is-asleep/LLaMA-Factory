@@ -8,7 +8,7 @@
     "columns": {
       "prompt": "text"
     }
-  }
+  },
   "alpaca_zh": {
     "file_name": "alpaca_data_zh_51k.json",
     "file_sha1": "2ba9827122c158dc256668d42bd1bcb8bc6b786e"

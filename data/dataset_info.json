@@ -3,6 +3,12 @@
     "file_name": "alpaca_data_en_52k.json",
     "file_sha1": "607f94a7f581341e59685aef32f531095232cf23"
   },
+  "sbndcode": {
+    "file_name": "combined.json",
+    "columns": {
+      "prompt": "text"
+    }
+  }
   "alpaca_zh": {
     "file_name": "alpaca_data_zh_51k.json",
     "file_sha1": "2ba9827122c158dc256668d42bd1bcb8bc6b786e"
